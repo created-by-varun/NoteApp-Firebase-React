@@ -15,7 +15,6 @@ firebase.initializeApp({
     storageBucket: "evernote-clone-bbfcf.appspot.com",
     messagingSenderId: "970306349017",
     appId: "1:970306349017:web:d41c70db702044bb075bc8"
-
 });
 
 
